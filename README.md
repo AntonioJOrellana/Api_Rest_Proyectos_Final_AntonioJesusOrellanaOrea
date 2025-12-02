@@ -296,7 +296,7 @@ DELETE /{id}: Elimina un estado por su ID.
 
 Clonar el repositorio:
 
-git clone [https://github.com/tuusuario/proyectos.git](https://github.com/tuusuario/proyectos.git)
+git clone [[https://github.com/tuusuario/proyectos.git](https://github.com/AntonioJOrellana/Api_Rest_Proyectos_Final_AntonioJesusOrellanaOrea/tree/main)](https://github.com/tuusuario/proyectos.git)
 
 
 Configuración de MySQL: Ejecuta el Script de Creación de Tablas (DDL) proporcionado arriba en tu servidor MySQL para crear la base de datos Proyectosdb. Si es necesario, ajusta las credenciales en application.yml.
