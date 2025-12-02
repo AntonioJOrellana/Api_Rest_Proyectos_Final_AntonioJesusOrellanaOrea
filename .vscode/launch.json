@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ProyectosApplication",
+            "request": "launch",
+            "mainClass": "com.example.proyectos.ProyectosApplication",
+            "projectName": "Tienda"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ProductoApplication<Tienda>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.Producto.ProductoApplication",
+            "projectName": "Tienda",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
